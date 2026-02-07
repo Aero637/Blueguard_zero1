@@ -1,0 +1,1652 @@
+[{
+  "_id": {
+    "$oid": "69636cd6eb6961c8fb9b226d"
+  },
+  "timestamp": "2026-01-09 22:10:00",
+  "rssi": -95,
+  "action": "LOCK_TRIGGERED",
+  "hash": "8f3...a1"
+},
+{
+  "_id": {
+    "$oid": "6963701c020ffeefadf676e7"
+  },
+  "timestamp": "2026-01-11 15:10:44",
+  "rssi": -81,
+  "action": "SAFE_PRESENT",
+  "hash": "e38c745f"
+},
+{
+  "_id": {
+    "$oid": "6963701e020ffeefadf676e8"
+  },
+  "timestamp": "2026-01-11 15:10:46",
+  "rssi": -51,
+  "action": "SAFE_PRESENT",
+  "hash": "c01a75fe"
+},
+{
+  "_id": {
+    "$oid": "69637020020ffeefadf676e9"
+  },
+  "timestamp": "2026-01-11 15:10:48",
+  "rssi": -53,
+  "action": "SAFE_PRESENT",
+  "hash": "586c8a38"
+},
+{
+  "_id": {
+    "$oid": "69637022020ffeefadf676ea"
+  },
+  "timestamp": "2026-01-11 15:10:50",
+  "rssi": -50,
+  "action": "SAFE_PRESENT",
+  "hash": "acfbcaf9"
+},
+{
+  "_id": {
+    "$oid": "69637024020ffeefadf676eb"
+  },
+  "timestamp": "2026-01-11 15:10:52",
+  "rssi": -41,
+  "action": "SAFE_PRESENT",
+  "hash": "929072ed"
+},
+{
+  "_id": {
+    "$oid": "69637027020ffeefadf676ec"
+  },
+  "timestamp": "2026-01-11 15:10:55",
+  "rssi": -90,
+  "action": "LOCK_TRIGGERED",
+  "hash": "fcd21585"
+},
+{
+  "_id": {
+    "$oid": "69637029020ffeefadf676ed"
+  },
+  "timestamp": "2026-01-11 15:10:57",
+  "rssi": -59,
+  "action": "SAFE_PRESENT",
+  "hash": "8d44833e"
+},
+{
+  "_id": {
+    "$oid": "6963702b020ffeefadf676ee"
+  },
+  "timestamp": "2026-01-11 15:10:59",
+  "rssi": -57,
+  "action": "SAFE_PRESENT",
+  "hash": "c4402bfc"
+},
+{
+  "_id": {
+    "$oid": "6963702d020ffeefadf676ef"
+  },
+  "timestamp": "2026-01-11 15:11:01",
+  "rssi": -90,
+  "action": "LOCK_TRIGGERED",
+  "hash": "a5a6ea84"
+},
+{
+  "_id": {
+    "$oid": "6963702f020ffeefadf676f0"
+  },
+  "timestamp": "2026-01-11 15:11:03",
+  "rssi": -41,
+  "action": "SAFE_PRESENT",
+  "hash": "2792fa94"
+},
+{
+  "_id": {
+    "$oid": "69637031020ffeefadf676f1"
+  },
+  "timestamp": "2026-01-11 15:11:05",
+  "rssi": -73,
+  "action": "SAFE_PRESENT",
+  "hash": "96d1414f"
+},
+{
+  "_id": {
+    "$oid": "69637033020ffeefadf676f2"
+  },
+  "timestamp": "2026-01-11 15:11:07",
+  "rssi": -92,
+  "action": "LOCK_TRIGGERED",
+  "hash": "3890c6df"
+},
+{
+  "_id": {
+    "$oid": "69637035020ffeefadf676f3"
+  },
+  "timestamp": "2026-01-11 15:11:09",
+  "rssi": -66,
+  "action": "SAFE_PRESENT",
+  "hash": "7c0b0f12"
+},
+{
+  "_id": {
+    "$oid": "69637037020ffeefadf676f4"
+  },
+  "timestamp": "2026-01-11 15:11:11",
+  "rssi": -51,
+  "action": "SAFE_PRESENT",
+  "hash": "df9be3c7"
+},
+{
+  "_id": {
+    "$oid": "69637039020ffeefadf676f5"
+  },
+  "timestamp": "2026-01-11 15:11:13",
+  "rssi": -41,
+  "action": "SAFE_PRESENT",
+  "hash": "7e751efb"
+},
+{
+  "_id": {
+    "$oid": "6963704b431ee25240eba780"
+  },
+  "timestamp": "2026-01-11 15:11:31",
+  "rssi": -43,
+  "action": "SAFE_PRESENT",
+  "hash": "1a57037b"
+},
+{
+  "_id": {
+    "$oid": "6963704d431ee25240eba781"
+  },
+  "timestamp": "2026-01-11 15:11:33",
+  "rssi": -84,
+  "action": "SAFE_PRESENT",
+  "hash": "1b6b6d5f"
+},
+{
+  "_id": {
+    "$oid": "69637050431ee25240eba782"
+  },
+  "timestamp": "2026-01-11 15:11:35",
+  "rssi": -95,
+  "action": "LOCK_TRIGGERED",
+  "hash": "e8218e58"
+},
+{
+  "_id": {
+    "$oid": "69637052431ee25240eba783"
+  },
+  "timestamp": "2026-01-11 15:11:38",
+  "rssi": -94,
+  "action": "LOCK_TRIGGERED",
+  "hash": "9155319"
+},
+{
+  "_id": {
+    "$oid": "69637054431ee25240eba784"
+  },
+  "timestamp": "2026-01-11 15:11:40",
+  "rssi": -72,
+  "action": "SAFE_PRESENT",
+  "hash": "31756ccf"
+},
+{
+  "_id": {
+    "$oid": "69637056431ee25240eba785"
+  },
+  "timestamp": "2026-01-11 15:11:42",
+  "rssi": -52,
+  "action": "SAFE_PRESENT",
+  "hash": "d2d16939"
+},
+{
+  "_id": {
+    "$oid": "69637058431ee25240eba786"
+  },
+  "timestamp": "2026-01-11 15:11:44",
+  "rssi": -42,
+  "action": "SAFE_PRESENT",
+  "hash": "1a3d5afa"
+},
+{
+  "_id": {
+    "$oid": "6963705a431ee25240eba787"
+  },
+  "timestamp": "2026-01-11 15:11:46",
+  "rssi": -74,
+  "action": "SAFE_PRESENT",
+  "hash": "e057b942"
+},
+{
+  "_id": {
+    "$oid": "6963705c431ee25240eba788"
+  },
+  "timestamp": "2026-01-11 15:11:48",
+  "rssi": -90,
+  "action": "LOCK_TRIGGERED",
+  "hash": "64c2398e"
+},
+{
+  "_id": {
+    "$oid": "6963705e431ee25240eba789"
+  },
+  "timestamp": "2026-01-11 15:11:50",
+  "rssi": -86,
+  "action": "LOCK_TRIGGERED",
+  "hash": "10ab1798"
+},
+{
+  "_id": {
+    "$oid": "69637060431ee25240eba78a"
+  },
+  "timestamp": "2026-01-11 15:11:52",
+  "rssi": -91,
+  "action": "LOCK_TRIGGERED",
+  "hash": "6cdb5bf0"
+},
+{
+  "_id": {
+    "$oid": "69637062431ee25240eba78b"
+  },
+  "timestamp": "2026-01-11 15:11:54",
+  "rssi": -53,
+  "action": "SAFE_PRESENT",
+  "hash": "6a0ac8d6"
+},
+{
+  "_id": {
+    "$oid": "69637064431ee25240eba78c"
+  },
+  "timestamp": "2026-01-11 15:11:56",
+  "rssi": -60,
+  "action": "SAFE_PRESENT",
+  "hash": "2937978"
+},
+{
+  "_id": {
+    "$oid": "69637066431ee25240eba78d"
+  },
+  "timestamp": "2026-01-11 15:11:58",
+  "rssi": -99,
+  "action": "LOCK_TRIGGERED",
+  "hash": "b86f5e9c"
+},
+{
+  "_id": {
+    "$oid": "69637068431ee25240eba78e"
+  },
+  "timestamp": "2026-01-11 15:12:00",
+  "rssi": -49,
+  "action": "SAFE_PRESENT",
+  "hash": "3141dda3"
+},
+{
+  "_id": {
+    "$oid": "6963706b431ee25240eba78f"
+  },
+  "timestamp": "2026-01-11 15:12:03",
+  "rssi": -40,
+  "action": "SAFE_PRESENT",
+  "hash": "9fb920c3"
+},
+{
+  "_id": {
+    "$oid": "6963706d431ee25240eba790"
+  },
+  "timestamp": "2026-01-11 15:12:05",
+  "rssi": -100,
+  "action": "LOCK_TRIGGERED",
+  "hash": "cb76ee0f"
+},
+{
+  "_id": {
+    "$oid": "6963706f431ee25240eba791"
+  },
+  "timestamp": "2026-01-11 15:12:07",
+  "rssi": -57,
+  "action": "SAFE_PRESENT",
+  "hash": "f8ddcef6"
+},
+{
+  "_id": {
+    "$oid": "69637071431ee25240eba792"
+  },
+  "timestamp": "2026-01-11 15:12:09",
+  "rssi": -59,
+  "action": "SAFE_PRESENT",
+  "hash": "315a3702"
+},
+{
+  "_id": {
+    "$oid": "69637073431ee25240eba793"
+  },
+  "timestamp": "2026-01-11 15:12:11",
+  "rssi": -41,
+  "action": "SAFE_PRESENT",
+  "hash": "9b1b33c7"
+},
+{
+  "_id": {
+    "$oid": "69637075431ee25240eba794"
+  },
+  "timestamp": "2026-01-11 15:12:13",
+  "rssi": -55,
+  "action": "SAFE_PRESENT",
+  "hash": "859ec5ac"
+},
+{
+  "_id": {
+    "$oid": "69637077431ee25240eba795"
+  },
+  "timestamp": "2026-01-11 15:12:15",
+  "rssi": -70,
+  "action": "SAFE_PRESENT",
+  "hash": "6334d072"
+},
+{
+  "_id": {
+    "$oid": "69637079431ee25240eba796"
+  },
+  "timestamp": "2026-01-11 15:12:17",
+  "rssi": -66,
+  "action": "SAFE_PRESENT",
+  "hash": "bf7436eb"
+},
+{
+  "_id": {
+    "$oid": "6963707b431ee25240eba797"
+  },
+  "timestamp": "2026-01-11 15:12:19",
+  "rssi": -81,
+  "action": "SAFE_PRESENT",
+  "hash": "50767c11"
+},
+{
+  "_id": {
+    "$oid": "6963707d431ee25240eba798"
+  },
+  "timestamp": "2026-01-11 15:12:21",
+  "rssi": -75,
+  "action": "SAFE_PRESENT",
+  "hash": "46c25bf8"
+},
+{
+  "_id": {
+    "$oid": "6963707f431ee25240eba799"
+  },
+  "timestamp": "2026-01-11 15:12:23",
+  "rssi": -88,
+  "action": "LOCK_TRIGGERED",
+  "hash": "d843abca"
+},
+{
+  "_id": {
+    "$oid": "69637081431ee25240eba79a"
+  },
+  "timestamp": "2026-01-11 15:12:25",
+  "rssi": -49,
+  "action": "SAFE_PRESENT",
+  "hash": "bf203943"
+},
+{
+  "_id": {
+    "$oid": "69637083431ee25240eba79b"
+  },
+  "timestamp": "2026-01-11 15:12:27",
+  "rssi": -65,
+  "action": "SAFE_PRESENT",
+  "hash": "df43003"
+},
+{
+  "_id": {
+    "$oid": "69637085431ee25240eba79c"
+  },
+  "timestamp": "2026-01-11 15:12:29",
+  "rssi": -58,
+  "action": "SAFE_PRESENT",
+  "hash": "ebc1b254"
+},
+{
+  "_id": {
+    "$oid": "69637087431ee25240eba79d"
+  },
+  "timestamp": "2026-01-11 15:12:31",
+  "rssi": -54,
+  "action": "SAFE_PRESENT",
+  "hash": "c082d9e0"
+},
+{
+  "_id": {
+    "$oid": "6963708a431ee25240eba79e"
+  },
+  "timestamp": "2026-01-11 15:12:34",
+  "rssi": -99,
+  "action": "LOCK_TRIGGERED",
+  "hash": "84ccf2bd"
+},
+{
+  "_id": {
+    "$oid": "6963708c431ee25240eba79f"
+  },
+  "timestamp": "2026-01-11 15:12:36",
+  "rssi": -87,
+  "action": "LOCK_TRIGGERED",
+  "hash": "70a25e0c"
+},
+{
+  "_id": {
+    "$oid": "6963708e431ee25240eba7a0"
+  },
+  "timestamp": "2026-01-11 15:12:38",
+  "rssi": -55,
+  "action": "SAFE_PRESENT",
+  "hash": "ad93d6c8"
+},
+{
+  "_id": {
+    "$oid": "69637090431ee25240eba7a1"
+  },
+  "timestamp": "2026-01-11 15:12:40",
+  "rssi": -77,
+  "action": "SAFE_PRESENT",
+  "hash": "3034e0f8"
+},
+{
+  "_id": {
+    "$oid": "69637092431ee25240eba7a2"
+  },
+  "timestamp": "2026-01-11 15:12:42",
+  "rssi": -72,
+  "action": "SAFE_PRESENT",
+  "hash": "d3591710"
+},
+{
+  "_id": {
+    "$oid": "69637094431ee25240eba7a3"
+  },
+  "timestamp": "2026-01-11 15:12:44",
+  "rssi": -59,
+  "action": "SAFE_PRESENT",
+  "hash": "7c278b"
+},
+{
+  "_id": {
+    "$oid": "69637096431ee25240eba7a4"
+  },
+  "timestamp": "2026-01-11 15:12:46",
+  "rssi": -64,
+  "action": "SAFE_PRESENT",
+  "hash": "ae35304a"
+},
+{
+  "_id": {
+    "$oid": "6976d99dcc3463379d88469e"
+  },
+  "timestamp": "2026-01-26 08:33:57",
+  "rssi": -98,
+  "status": "LOCK_TRIGGERED",
+  "hash": "4cc320f5"
+},
+{
+  "_id": {
+    "$oid": "6976d9b8cc3463379d88469f"
+  },
+  "timestamp": "2026-01-26 08:34:24",
+  "rssi": -53,
+  "status": "SAFE_PRESENT",
+  "hash": "28d6dbd4"
+},
+{
+  "_id": {
+    "$oid": "6976d9bacc3463379d8846a0"
+  },
+  "timestamp": "2026-01-26 08:34:26",
+  "rssi": -72,
+  "status": "SAFE_PRESENT",
+  "hash": "4cd35ade"
+},
+{
+  "_id": {
+    "$oid": "6976d9bccc3463379d8846a1"
+  },
+  "timestamp": "2026-01-26 08:34:28",
+  "rssi": -53,
+  "status": "SAFE_PRESENT",
+  "hash": "c824643e"
+},
+{
+  "_id": {
+    "$oid": "6976d9becc3463379d8846a2"
+  },
+  "timestamp": "2026-01-26 08:34:30",
+  "rssi": -49,
+  "status": "SAFE_PRESENT",
+  "hash": "5b4a2f67"
+},
+{
+  "_id": {
+    "$oid": "6976d9c0cc3463379d8846a3"
+  },
+  "timestamp": "2026-01-26 08:34:32",
+  "rssi": -82,
+  "status": "SAFE_PRESENT",
+  "hash": "35c2bf8a"
+},
+{
+  "_id": {
+    "$oid": "6976d9c2cc3463379d8846a4"
+  },
+  "timestamp": "2026-01-26 08:34:34",
+  "rssi": -84,
+  "status": "SAFE_PRESENT",
+  "hash": "5fd4f94a"
+},
+{
+  "_id": {
+    "$oid": "6976d9c4cc3463379d8846a5"
+  },
+  "timestamp": "2026-01-26 08:34:36",
+  "rssi": -77,
+  "status": "SAFE_PRESENT",
+  "hash": "90d26305"
+},
+{
+  "_id": {
+    "$oid": "6976d9c6cc3463379d8846a6"
+  },
+  "timestamp": "2026-01-26 08:34:38",
+  "rssi": -53,
+  "status": "SAFE_PRESENT",
+  "hash": "a595cbd6"
+},
+{
+  "_id": {
+    "$oid": "6976d9c8cc3463379d8846a7"
+  },
+  "timestamp": "2026-01-26 08:34:40",
+  "rssi": -68,
+  "status": "SAFE_PRESENT",
+  "hash": "9fb6b8b0"
+},
+{
+  "_id": {
+    "$oid": "6976d9cacc3463379d8846a8"
+  },
+  "timestamp": "2026-01-26 08:34:42",
+  "rssi": -53,
+  "status": "SAFE_PRESENT",
+  "hash": "b1410882"
+},
+{
+  "_id": {
+    "$oid": "6976d9cdcc3463379d8846a9"
+  },
+  "timestamp": "2026-01-26 08:34:44",
+  "rssi": -98,
+  "status": "LOCK_TRIGGERED",
+  "hash": "35f91623"
+},
+{
+  "_id": {
+    "$oid": "6976d9cfcc3463379d8846aa"
+  },
+  "timestamp": "2026-01-26 08:34:47",
+  "rssi": -68,
+  "status": "SAFE_PRESENT",
+  "hash": "4c7fd638"
+},
+{
+  "_id": {
+    "$oid": "6976d9d1cc3463379d8846ab"
+  },
+  "timestamp": "2026-01-26 08:34:49",
+  "rssi": -64,
+  "status": "SAFE_PRESENT",
+  "hash": "9beacc4b"
+},
+{
+  "_id": {
+    "$oid": "6976d9d3cc3463379d8846ac"
+  },
+  "timestamp": "2026-01-26 08:34:51",
+  "rssi": -96,
+  "status": "LOCK_TRIGGERED",
+  "hash": "94112237"
+},
+{
+  "_id": {
+    "$oid": "6976d9d5cc3463379d8846ad"
+  },
+  "timestamp": "2026-01-26 08:34:53",
+  "rssi": -47,
+  "status": "SAFE_PRESENT",
+  "hash": "c6d6a70d"
+},
+{
+  "_id": {
+    "$oid": "6976d9d7cc3463379d8846ae"
+  },
+  "timestamp": "2026-01-26 08:34:55",
+  "rssi": -63,
+  "status": "SAFE_PRESENT",
+  "hash": "ee9aa134"
+},
+{
+  "_id": {
+    "$oid": "6976d9d9cc3463379d8846af"
+  },
+  "timestamp": "2026-01-26 08:34:57",
+  "rssi": -80,
+  "status": "SAFE_PRESENT",
+  "hash": "6f855b4a"
+},
+{
+  "_id": {
+    "$oid": "6976d9dbcc3463379d8846b0"
+  },
+  "timestamp": "2026-01-26 08:34:59",
+  "rssi": -100,
+  "status": "LOCK_TRIGGERED",
+  "hash": "b689c02"
+},
+{
+  "_id": {
+    "$oid": "6976d9decc3463379d8846b1"
+  },
+  "timestamp": "2026-01-26 08:35:01",
+  "rssi": -92,
+  "status": "LOCK_TRIGGERED",
+  "hash": "d5babd7e"
+},
+{
+  "_id": {
+    "$oid": "6976d9e0cc3463379d8846b2"
+  },
+  "timestamp": "2026-01-26 08:35:04",
+  "rssi": -88,
+  "status": "LOCK_TRIGGERED",
+  "hash": "b9329be7"
+},
+{
+  "_id": {
+    "$oid": "6976d9e2cc3463379d8846b3"
+  },
+  "timestamp": "2026-01-26 08:35:06",
+  "rssi": -97,
+  "status": "LOCK_TRIGGERED",
+  "hash": "85d85e0e"
+},
+{
+  "_id": {
+    "$oid": "6976d9e4cc3463379d8846b4"
+  },
+  "timestamp": "2026-01-26 08:35:08",
+  "rssi": -98,
+  "status": "LOCK_TRIGGERED",
+  "hash": "1a459bad"
+},
+{
+  "_id": {
+    "$oid": "6976d9e6cc3463379d8846b5"
+  },
+  "timestamp": "2026-01-26 08:35:10",
+  "rssi": -48,
+  "status": "SAFE_PRESENT",
+  "hash": "1ea7640a"
+},
+{
+  "_id": {
+    "$oid": "6976d9e8cc3463379d8846b6"
+  },
+  "timestamp": "2026-01-26 08:35:12",
+  "rssi": -46,
+  "status": "SAFE_PRESENT",
+  "hash": "cbdf8640"
+},
+{
+  "_id": {
+    "$oid": "6976e5ce591367f11bca0887"
+  },
+  "timestamp": "2026-01-26 09:25:58",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976e5e1591367f11bca0888"
+  },
+  "timestamp": "2026-01-26 09:26:17",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976e5e7591367f11bca0889"
+  },
+  "timestamp": "2026-01-26 09:26:23",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976e5ed591367f11bca088a"
+  },
+  "timestamp": "2026-01-26 09:26:29",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976e603591367f11bca088b"
+  },
+  "timestamp": "2026-01-26 09:26:51",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976e609591367f11bca088c"
+  },
+  "timestamp": "2026-01-26 09:26:57",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976e616591367f11bca088d"
+  },
+  "timestamp": "2026-01-26 09:27:10",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976e619591367f11bca088e"
+  },
+  "timestamp": "2026-01-26 09:27:13",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976e625591367f11bca088f"
+  },
+  "timestamp": "2026-01-26 09:27:25",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976e63a591367f11bca0890"
+  },
+  "timestamp": "2026-01-26 09:27:46",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976e644591367f11bca0891"
+  },
+  "timestamp": "2026-01-26 09:27:56",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976e6b9b21795ed8f94c88b"
+  },
+  "timestamp": "2026-01-26 09:29:53",
+  "rssi": -68,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976e90ed0788f2d33dcbebc"
+  },
+  "timestamp": "2026-01-26 09:39:50",
+  "rssi": -66,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976e9b246d9631596510241"
+  },
+  "timestamp": "2026-01-26 09:42:34",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976e9b546d9631596510242"
+  },
+  "timestamp": "2026-01-26 09:42:37",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976e9b946d9631596510243"
+  },
+  "timestamp": "2026-01-26 09:42:41",
+  "rssi": -65,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976e9bc46d9631596510244"
+  },
+  "timestamp": "2026-01-26 09:42:44",
+  "rssi": -72,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976e9bf46d9631596510245"
+  },
+  "timestamp": "2026-01-26 09:42:47",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976e9c246d9631596510246"
+  },
+  "timestamp": "2026-01-26 09:42:50",
+  "rssi": -65,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976e9c546d9631596510247"
+  },
+  "timestamp": "2026-01-26 09:42:53",
+  "rssi": -70,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976e9c846d9631596510248"
+  },
+  "timestamp": "2026-01-26 09:42:56",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976e9cb46d9631596510249"
+  },
+  "timestamp": "2026-01-26 09:42:59",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976e9ce46d963159651024a"
+  },
+  "timestamp": "2026-01-26 09:43:02",
+  "rssi": -65,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976e9d246d963159651024b"
+  },
+  "timestamp": "2026-01-26 09:43:06",
+  "rssi": -63,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976e9d546d963159651024c"
+  },
+  "timestamp": "2026-01-26 09:43:09",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976e9d846d963159651024d"
+  },
+  "timestamp": "2026-01-26 09:43:12",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976e9db46d963159651024e"
+  },
+  "timestamp": "2026-01-26 09:43:15",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976e9de46d963159651024f"
+  },
+  "timestamp": "2026-01-26 09:43:18",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976e9e146d9631596510250"
+  },
+  "timestamp": "2026-01-26 09:43:21",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976e9e446d9631596510251"
+  },
+  "timestamp": "2026-01-26 09:43:24",
+  "rssi": -65,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976e9e746d9631596510252"
+  },
+  "timestamp": "2026-01-26 09:43:27",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976e9ea46d9631596510253"
+  },
+  "timestamp": "2026-01-26 09:43:30",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976e9ee46d9631596510254"
+  },
+  "timestamp": "2026-01-26 09:43:34",
+  "rssi": -67,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976e9f146d9631596510255"
+  },
+  "timestamp": "2026-01-26 09:43:37",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976e9f446d9631596510256"
+  },
+  "timestamp": "2026-01-26 09:43:40",
+  "rssi": -68,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976e9f746d9631596510257"
+  },
+  "timestamp": "2026-01-26 09:43:43",
+  "rssi": -69,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976e9fa46d9631596510258"
+  },
+  "timestamp": "2026-01-26 09:43:46",
+  "rssi": -72,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976e9fd46d9631596510259"
+  },
+  "timestamp": "2026-01-26 09:43:49",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976ea0046d963159651025a"
+  },
+  "timestamp": "2026-01-26 09:43:52",
+  "rssi": -71,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea0346d963159651025b"
+  },
+  "timestamp": "2026-01-26 09:43:55",
+  "rssi": -71,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea0646d963159651025c"
+  },
+  "timestamp": "2026-01-26 09:43:58",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976ea0a46d963159651025d"
+  },
+  "timestamp": "2026-01-26 09:44:02",
+  "rssi": -69,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea0d46d963159651025e"
+  },
+  "timestamp": "2026-01-26 09:44:05",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976ea1046d963159651025f"
+  },
+  "timestamp": "2026-01-26 09:44:08",
+  "rssi": -65,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea1346d9631596510260"
+  },
+  "timestamp": "2026-01-26 09:44:11",
+  "rssi": -64,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea1646d9631596510261"
+  },
+  "timestamp": "2026-01-26 09:44:14",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976ea1946d9631596510262"
+  },
+  "timestamp": "2026-01-26 09:44:17",
+  "rssi": -64,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea1c46d9631596510263"
+  },
+  "timestamp": "2026-01-26 09:44:20",
+  "rssi": -67,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea1f46d9631596510264"
+  },
+  "timestamp": "2026-01-26 09:44:23",
+  "rssi": -65,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea2246d9631596510265"
+  },
+  "timestamp": "2026-01-26 09:44:26",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976ea2646d9631596510266"
+  },
+  "timestamp": "2026-01-26 09:44:30",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976ea2946d9631596510267"
+  },
+  "timestamp": "2026-01-26 09:44:33",
+  "rssi": -65,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea2c46d9631596510268"
+  },
+  "timestamp": "2026-01-26 09:44:36",
+  "rssi": -62,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea2f46d9631596510269"
+  },
+  "timestamp": "2026-01-26 09:44:39",
+  "rssi": -76,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea3246d963159651026a"
+  },
+  "timestamp": "2026-01-26 09:44:42",
+  "rssi": -67,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea3546d963159651026b"
+  },
+  "timestamp": "2026-01-26 09:44:45",
+  "rssi": -77,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea3846d963159651026c"
+  },
+  "timestamp": "2026-01-26 09:44:48",
+  "rssi": -67,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea3b46d963159651026d"
+  },
+  "timestamp": "2026-01-26 09:44:51",
+  "rssi": -79,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea3e46d963159651026e"
+  },
+  "timestamp": "2026-01-26 09:44:54",
+  "rssi": -65,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea4246d963159651026f"
+  },
+  "timestamp": "2026-01-26 09:44:58",
+  "rssi": -77,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea4546d9631596510270"
+  },
+  "timestamp": "2026-01-26 09:45:01",
+  "rssi": -65,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea4846d9631596510271"
+  },
+  "timestamp": "2026-01-26 09:45:04",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976ea4b46d9631596510272"
+  },
+  "timestamp": "2026-01-26 09:45:07",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976ea4e46d9631596510273"
+  },
+  "timestamp": "2026-01-26 09:45:10",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976ea5146d9631596510274"
+  },
+  "timestamp": "2026-01-26 09:45:13",
+  "rssi": -70,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea5446d9631596510275"
+  },
+  "timestamp": "2026-01-26 09:45:16",
+  "rssi": -67,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea5746d9631596510276"
+  },
+  "timestamp": "2026-01-26 09:45:19",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976ea5a46d9631596510277"
+  },
+  "timestamp": "2026-01-26 09:45:22",
+  "rssi": -69,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea5e46d9631596510278"
+  },
+  "timestamp": "2026-01-26 09:45:26",
+  "rssi": -66,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea6146d9631596510279"
+  },
+  "timestamp": "2026-01-26 09:45:29",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976ea6446d963159651027a"
+  },
+  "timestamp": "2026-01-26 09:45:32",
+  "rssi": -69,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea6746d963159651027b"
+  },
+  "timestamp": "2026-01-26 09:45:35",
+  "rssi": -69,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea6a46d963159651027c"
+  },
+  "timestamp": "2026-01-26 09:45:38",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976ea6d46d963159651027d"
+  },
+  "timestamp": "2026-01-26 09:45:41",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976ea7046d963159651027e"
+  },
+  "timestamp": "2026-01-26 09:45:44",
+  "rssi": -64,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea7346d963159651027f"
+  },
+  "timestamp": "2026-01-26 09:45:47",
+  "rssi": -69,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea7646d9631596510280"
+  },
+  "timestamp": "2026-01-26 09:45:50",
+  "rssi": -67,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea7a46d9631596510281"
+  },
+  "timestamp": "2026-01-26 09:45:54",
+  "rssi": -64,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea7d46d9631596510282"
+  },
+  "timestamp": "2026-01-26 09:45:57",
+  "rssi": -73,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea8046d9631596510283"
+  },
+  "timestamp": "2026-01-26 09:46:00",
+  "rssi": -72,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea8346d9631596510284"
+  },
+  "timestamp": "2026-01-26 09:46:03",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976ea8646d9631596510285"
+  },
+  "timestamp": "2026-01-26 09:46:06",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976ea8946d9631596510286"
+  },
+  "timestamp": "2026-01-26 09:46:09",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976ea8d46d9631596510287"
+  },
+  "timestamp": "2026-01-26 09:46:13",
+  "rssi": -70,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea9046d9631596510288"
+  },
+  "timestamp": "2026-01-26 09:46:16",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976ea9346d9631596510289"
+  },
+  "timestamp": "2026-01-26 09:46:19",
+  "rssi": -66,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea9646d963159651028a"
+  },
+  "timestamp": "2026-01-26 09:46:22",
+  "rssi": -63,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea9946d963159651028b"
+  },
+  "timestamp": "2026-01-26 09:46:25",
+  "rssi": -66,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea9c46d963159651028c"
+  },
+  "timestamp": "2026-01-26 09:46:28",
+  "rssi": -61,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976ea9f46d963159651028d"
+  },
+  "timestamp": "2026-01-26 09:46:31",
+  "rssi": -66,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976eaa246d963159651028e"
+  },
+  "timestamp": "2026-01-26 09:46:34",
+  "rssi": -64,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976eaa546d963159651028f"
+  },
+  "timestamp": "2026-01-26 09:46:37",
+  "rssi": "--",
+  "status": "DEVICE_NOT_FOUND",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6976eaa946d9631596510290"
+  },
+  "timestamp": "2026-01-26 09:46:41",
+  "rssi": -61,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976eaac46d9631596510291"
+  },
+  "timestamp": "2026-01-26 09:46:44",
+  "rssi": -66,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+},
+{
+  "_id": {
+    "$oid": "6976eaaf46d9631596510292"
+  },
+  "timestamp": "2026-01-26 09:46:47",
+  "rssi": -63,
+  "status": "SAFE_PRESENT",
+  "device": "D3:18:13:30:9E:CE",
+  "proximity": "Near"
+}]
